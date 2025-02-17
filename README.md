@@ -9,10 +9,11 @@ of precision. The project aims to design a framework that shall enhance future C
 designs for low power applications.
 # How to Run
 Open Google Colab or any other necessary platform, upload the .ipynb and .csv files, and run the code.
-![Screenshot 2025-02-17 at 5 09 29 PM](https://github.com/user-attachments/assets/d1df8338-acb2-456b-8062-77572874015d)
-![Screenshot 2025-02-17 at 5 09 11 PM](https://github.com/user-attachments/assets/d74c60f8-2a4a-4c3f-a3e5-3a653fb53f38)
-![Screenshot 2025-02-17 at 5 08 48 PM](https://github.com/user-attachments/assets/dce2a5ed-161d-406d-96b9-54fa0f3d7839)
 
+
+![Screenshot 2025-02-17 at 5 08 48 PM](https://github.com/user-attachments/assets/dce2a5ed-161d-406d-96b9-54fa0f3d7839)
+![Screenshot 2025-02-17 at 5 09 11 PM](https://github.com/user-attachments/assets/d74c60f8-2a4a-4c3f-a3e5-3a653fb53f38)
+![Screenshot 2025-02-17 at 5 09 29 PM](https://github.com/user-attachments/assets/d1df8338-acb2-456b-8062-77572874015d)
 
 
 The implemented machine learning model effectively predicts leakage power in CMOS
