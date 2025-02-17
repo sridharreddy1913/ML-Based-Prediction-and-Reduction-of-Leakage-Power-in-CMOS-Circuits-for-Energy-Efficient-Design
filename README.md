@@ -1,0 +1,1 @@
+# ML-Based-Prediction-and-Reduction-of-Leakage-Power-in-CMOS-Circuits-for-Energy-Efficient-Design
